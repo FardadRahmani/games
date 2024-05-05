@@ -1,0 +1,18 @@
+Long Sword
+1
+8
+50
+Dirty mail
+4
+50
+Far
+Fighter
+30
+30
+20
+20
+1100
+10
+900
+1000
+1

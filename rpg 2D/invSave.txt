@@ -1,0 +1,9 @@
+Long Sword
+10
+20
+100
+
+Scale Shield
+7
+100
+
